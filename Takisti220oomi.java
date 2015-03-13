@@ -3,3 +3,4 @@ public class Takisti220oomi extends TakistusKomponent{
 		return 220;
 	}
 }
+
