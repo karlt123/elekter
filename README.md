@@ -1,0 +1,2 @@
+# elekter
+takistuste arvutamine
